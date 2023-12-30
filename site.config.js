@@ -10,12 +10,13 @@ const CONFIG = {
     github: "jihong-jeong",
     instagram: "",
   },
-  projects: [
-    {
-      name: `jihong-log`,
-      href: "https://github.com/jihong-jeong/jihong-log",
-    },
-  ],
+  // projects: [
+  //    {
+  //    name: `jihong-log`,
+  //    href: "https://github.com/jihong-jeong/jihong-log",
+  //  },
+  // ],
+  projects: undefined,
   // blog setting (required)
   blog: {
     title: "jihong-jeong | 정지홍의 공부 블로그",
