@@ -11,12 +11,11 @@ const CONFIG = {
     instagram: "",
   },
   // projects: [
-  //   {
-  //     name: `jihong-jeong`,
-  //     href: "https://github.com/jihong-jeong/jihong-log",
-  //   },
+  //  {
+  //    name: `morethan-log`,
+  //    href: "https://github.com/morethanmin/morethan-log",
+  //  },
   // ],
-  projects: undefined,
   // blog setting (required)
   blog: {
     title: "morethan-log",
