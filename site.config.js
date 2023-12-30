@@ -20,6 +20,7 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "jihong-jeong | 정지홍의 공부 블로그",
+    header: "<jihong-jeong />",
     description: "장비 제어 프로그래머의 공부 기록 합니다.",
   },
 
